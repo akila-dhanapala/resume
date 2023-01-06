@@ -115,3 +115,29 @@ h4{
     margin: 0 auto 50px;
 }
 
+.skill-row{
+    width: 55%;
+    margin: 0px auto 50px;
+}
+
+.skill-row-text-left{
+    float: left;
+    text-align: left;
+}
+
+.skill-row-text-right{
+    float: right;
+    text-align: right;
+}
+
+.img-skill{
+    width: 150px;
+    height: 150px;
+    margin: 50px 10px 20px 20px;
+}
+
+.bottom-container{
+    background-color: #11999E;
+    width: auto;
+    height: 150px;
+}
